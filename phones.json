@@ -1,0 +1,109 @@
+{
+    "main": [
+      {
+        "title": "Горячая линия",
+        "value": "69 84 84 540",
+        "code": "+ 49",
+        "type": "phone"
+      },
+      {
+        "title": "VIP платный телефон",
+        "value": "180 6 444 333 ",
+        "code": "+ 49",
+        "type": "phone"
+      },
+      {
+        "title": "Skype",
+        "value": "Звонок",
+        "link": "skype:support.kartina.tv?call",
+        "type": "phone"
+      }
+    ],
+    "additional": [
+      {
+        "title": "Германия",
+        "value": "069 84 84 540",
+        "type": "de"
+      },
+      {
+        "title": "Испания",
+        "value": "911 23 01 82",
+        "type": "es"
+      },
+      {
+        "title": "США",
+        "value": "888 827 06 06",
+        "type": "us"
+      },
+      {
+        "title": "Кипр",
+        "value": "025 0567 46",
+        "type": "cy"
+      },
+      {
+        "title": "Израиль",
+        "value": "*9505",
+        "type": "il"
+      },
+      {
+        "title": "Великобритания",
+        "value": "0800 090 31 33",
+        "type": "gb"
+      },
+      {
+        "title": "Австрия",
+        "value": "0 720 1167 02",
+        "type": "at"
+      },
+      {
+        "title": "Бельгия",
+        "value": "0 2 588 19 97",
+        "type": "be"
+      },
+      {
+        "title": "Греция",
+        "value": "2541 8880 28",
+        "type": "gr"
+      },
+      {
+        "title": "Финляндия",
+        "value": "0 75 32520 90",
+        "type": "fi"
+      },
+      {
+        "title": "Чехия",
+        "value": "228 885 8 63",
+        "type": "cz"
+      },
+      {
+        "title": "Швейцария",
+        "value": "0 31 528 08 76",
+        "type": "ch"
+      },
+      {
+        "title": "Италия",
+        "value": "0 583 188 01 98",
+        "type": "it"
+      },
+      {
+        "title": "Франция",
+        "value": "0975 180 460",
+        "type": "fr"
+      },
+      {
+        "title": "Россия",
+        "value": "8 800 77 58 329",
+        "type": "ru"
+      },
+      {
+        "title": "Швеция",
+        "value": "08408 394 48",
+        "type": "se"
+      },
+      {
+        "title": "ОАЭ",
+        "value": "8000 321 083",
+        "type": "ae"
+      }
+    ]
+  }
