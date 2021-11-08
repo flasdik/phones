@@ -11,12 +11,6 @@
         "value": "180 6 444 333 ",
         "code": "+ 49",
         "type": "phone"
-      },
-      {
-        "title": "Skype",
-        "value": "Звонок",
-        "link": "skype:support.kartina.tv?call",
-        "type": "phone"
       }
     ],
     "additional": [
